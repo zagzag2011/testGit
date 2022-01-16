@@ -1,0 +1,6 @@
+*.log
+*.txt
+*.iml
+*.class
+out/
+.idea/
